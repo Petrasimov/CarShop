@@ -1,0 +1,25 @@
+﻿@using DatabaseService.Models
+<table class="table">
+  <thead class="table-dark">
+     <tr>
+      <th scope="col">N</th>
+      <th scope="col">Название категории</th>
+      <th scope="col">Редактирование</th>
+      <th scope="col">Удаление</th>
+    </tr>
+  </thead>
+  <tbody>
+        @{
+            int i = 0;
+            foreach (Category category in Model)
+            {
+                <tr>
+                    <th scope="col">@Html.Raw(++i).ToString()</th>
+                    <th scope="col">@category.CategoryName</th>
+                    <th scope="col"><a class="btn btn-primary" href="#">Редактировать</a></th>
+                    <th scope="col"><a class="btn btn-danger" href="@Url.Action("DeleteCategory", "Category", new {categoryId = category.CategoryId})">Удаление</a></th>
+                </tr>
+            }
+      }
+  </tbody>
+</table>

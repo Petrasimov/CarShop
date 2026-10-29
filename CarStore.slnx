@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CarStore/CarStore.csproj" />
+  <Project Path="DatabaseService/DatabaseService.csproj" Id="2d76a733-f765-4b0e-af8f-7ce4954ef7c0" />
+</Solution>

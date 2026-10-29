@@ -1,0 +1,12 @@
+wwwroot\img\cars\a4.jpg
+wwwroot\img\cars\fiesta.jpg
+wwwroot\img\cars\free-icon-fire-extinguisher-7386928.png
+wwwroot\img\cars\i (1).webp
+wwwroot\img\cars\i.webp
+wwwroot\img\cars\mers.jpg
+wwwroot\img\cars\tesla.jpg
+wwwroot\img\cars\toyota.jpg
+wwwroot\img\cars\Снимок1.JPG
+wwwroot\img\slider\1.png
+wwwroot\img\slider\2.png
+wwwroot\img\slider\3.png

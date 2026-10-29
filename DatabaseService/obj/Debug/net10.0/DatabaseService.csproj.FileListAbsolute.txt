@@ -1,0 +1,13 @@
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\bin\Debug\net10.0\DatabaseService.deps.json
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\bin\Debug\net10.0\DatabaseService.dll
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\bin\Debug\net10.0\DatabaseService.pdb
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.csproj.AssemblyReference.cache
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.AssemblyInfoInputs.cache
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.AssemblyInfo.cs
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.dll
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\refint\DatabaseService.dll
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\DatabaseService.pdb
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\ref\DatabaseService.dll
+D:\Projects\C# projects\2026\IS42\CarStoreIS42\DatabaseService\obj\Debug\net10.0\Database.0EBD2A6D.Up2Date

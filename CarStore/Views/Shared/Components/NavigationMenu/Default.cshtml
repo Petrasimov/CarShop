@@ -1,0 +1,15 @@
+﻿
+@model IEnumerable<DatabaseService.Models.Category>
+<a class="btn btn-default" asp-action="Index" asp-controller="Home">На главную</a>
+
+@foreach(var cat in Model)
+{
+    string Class = (cat.CategoryId == ViewBag.SelectedCategory) ? "btn btn-block btn-primary" : "btn btn-block btn-default";
+    <a class="@Class" 
+        asp-action="Index" 
+        asp-controller="Home" 
+        asp-route-category="@cat.CategoryId" 
+        asp-route-page="1">
+        @cat.CategoryName
+    </a>
+}

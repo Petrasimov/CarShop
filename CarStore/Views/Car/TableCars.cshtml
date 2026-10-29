@@ -1,0 +1,27 @@
+﻿@using DatabaseService.Models
+<table class="table">
+  <thead class="table-dark">
+     <tr>
+      <th scope="col">N</th>
+      <th scope="col">Название авто</th>
+      <th scope="col">Фото</th>
+      <th scope="col">Редактирование</th>
+      <th scope="col">Удаление</th>
+    </tr>
+  </thead>
+  <tbody>
+        @{
+            int i = 0;
+            foreach (Car car in Model)
+            {
+                <tr>
+                    <th scope="col">@Html.Raw(++i).ToString()</th>
+                    <th scope="col">@car.Name</th>
+                    <th scope="col"><img src="@car.Img" width="50px"/></th>
+                    <th scope="col"><a class="btn btn-primary" asp-action="EditCar" asp-controller="Car" asp-route-carId="@car.CarId">Редактировать</a></th>
+                    <th scope="col"><a class="btn btn-danger" href="@Url.Action("DeleteCar", "Car", new {carId = car.CarId})">Удаление</a></th>
+                </tr>
+            }
+      }
+  </tbody>
+</table>

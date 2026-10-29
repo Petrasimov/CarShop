@@ -1,0 +1,13 @@
+﻿@model CarStore.Data.ViewModels.CartPageViewModel
+
+<div class="container">
+    @foreach(var el in Model.Cart.CartItems){
+        <div class="alert alert-warning mt-2">
+            <b>Автомобиль:</b> @el.Car.Name <br />
+            <b>Цена:</b> @el.Car.Price.ToString("c") <br />
+        </div>
+    }
+    <b>Итого:</b> @Model.Sum.ToString("c") <br />
+
+    <a class="btn btn-success" asp-action="Checkout" asp-controller="Order">Оплатить</a>
+</div>

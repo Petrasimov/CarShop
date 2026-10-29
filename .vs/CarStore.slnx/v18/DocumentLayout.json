@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\databaseservice\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|solutionrelative:databaseservice\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\databaseservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|solutionrelative:databaseservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\views\\order\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\views\\order\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\databaseservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|solutionrelative:databaseservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\databaseservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76A733-F765-4B0E-AF8F-7CE4954EF7C0}|DatabaseService\\DatabaseService.csproj|solutionrelative:databaseservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\data\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\data\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\views\\shared\\components\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\views\\shared\\components\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|d:\\projects\\c# projects\\2026\\is42\\carstoreis42\\carstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFE54CF-74EE-B6EA-D049-551AA02C8D2E}|CarStore\\CarStore.csproj|solutionrelative:carstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DatabaseService\\ApplicationContext.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\ApplicationContext.cs",
+              "RelativeToolTip": "DatabaseService\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:48:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DatabaseService\\Models\\Order.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\Order.cs",
+              "RelativeToolTip": "DatabaseService\\Models\\Order.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:11:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Complete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Order\\Complete.cshtml",
+              "RelativeDocumentMoniker": "CarStore\\Views\\Order\\Complete.cshtml",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Order\\Complete.cshtml",
+              "RelativeToolTip": "CarStore\\Views\\Order\\Complete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T05:35:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DatabaseService\\Models\\Cart.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\Cart.cs",
+              "RelativeToolTip": "DatabaseService\\Models\\Cart.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:18:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CarStore\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CarStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:10:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "CarStore\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "CarStore\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T12:33:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CarStore\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CarStore\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:18:23.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DatabaseService\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\DatabaseService\\Models\\CartItem.cs",
+              "RelativeToolTip": "DatabaseService\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:04:33.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "CarStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "CarStore\\TagHelpers\\PageLinkTagHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA4wCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:50:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:49:14.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T12:07:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavigationMenu.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Shared\\Components\\NavigationMenu.cs",
+              "RelativeDocumentMoniker": "CarStore\\Views\\Shared\\Components\\NavigationMenu.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\Shared\\Components\\NavigationMenu.cs",
+              "RelativeToolTip": "CarStore\\Views\\Shared\\Components\\NavigationMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:46:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Data\\ViewModels\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "CarStore\\Data\\ViewModels\\PagingInfo.cs",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Data\\ViewModels\\PagingInfo.cs",
+              "RelativeToolTip": "CarStore\\Data\\ViewModels\\PagingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:16:01.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\C# projects\\2026\\IS42\\CarStoreIS42\\CarStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T12:49:19.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
